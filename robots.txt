@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://crox-g.github.io/casinolevant/sitemap.xml
